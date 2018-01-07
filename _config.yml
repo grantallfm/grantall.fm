@@ -1,4 +1,16 @@
 actors:
+  ito:
+    image_url: /images/actors/ito.png
+    name: ito
+    url: https://twitter.com/iseebi
+  tmokita:
+    image_url: /images/actors/tmokita.png
+    name: tmokita
+    url: https://twitter.com/tmokita
+  takayama:
+    image_url: /images/actors/takayama.png
+    name: takayama
+    url: https://twitter.com/takayama
   alice:
     image_url: /images/actors/alice.png
     name: alice
@@ -7,7 +19,7 @@ actors:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
+author: takayama
 description: 伊藤、沖田、高山でお送りする何か
 description_long: 伊藤、沖田、高山でお送りする何か。Tech とゲームといろいろごった煮。
 email: grantall.fm@gmail.com
